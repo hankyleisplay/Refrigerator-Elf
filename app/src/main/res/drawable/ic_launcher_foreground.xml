@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Refrigerator Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,22 C34,20.9 34.9,20 36,20 L72,20 C73.1,20 74,20.9 74,22 L74,86 C74,87.1 73.1,88 72,88 L36,88 C34.9,88 34,87.1 34,86 Z" />
+
+    <!-- Dividing Line between Upper and Lower Compartments -->
+    <path
+        android:strokeColor="#0F766E"
+        android:strokeWidth="2"
+        android:pathData="M34,44 L74,44" />
+
+    <!-- Upper Door Handle -->
+    <path
+        android:fillColor="#0F766E"
+        android:pathData="M38,28 C38,27.4 38.4,27 39,27 L40,27 C40.6,27 41,27.4 41,28 L41,38 C41,38.6 40.6,39 40,39 L39,39 C38.4,39 38,38.6 38,38 Z" />
+
+    <!-- Lower Door Handle -->
+    <path
+        android:fillColor="#0F766E"
+        android:pathData="M38,48 C38,47.4 38.4,47 39,47 L40,47 C40.6,47 41,47.4 41,48 L41,74 C41,74.6 40.6,75 40,75 L39,75 C38.4,75 38,74.6 38,74 Z" />
+
+    <!-- Decorative Soft Highlight Light on the Fridge Body -->
+    <path
+        android:fillColor="#14B8A6"
+        android:pathData="M46,24 L48,24 L48,40 L46,40 Z" />
+    <path
+        android:fillColor="#14B8A6"
+        android:pathData="M46,48 L48,48 L48,80 L46,80 Z" />
+
+</vector>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">冰箱管理</string>
+    <string name="category_vegetable">蔬果</string>
+    <string name="category_meat">肉類與生鮮</string>
+    <string name="category_dairy">蛋奶與乳製品</string>
+    <string name="category_beverage">飲料與醬料</string>
+    <string name="category_cooked">熟食剩菜</string>
+    <string name="category_other">其他</string>
+</resources>

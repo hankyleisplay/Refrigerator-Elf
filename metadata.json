@@ -1,0 +1,6 @@
+{
+  "name": "冰箱管理",
+  "description": "一個精美、直覺的冰箱食材管理與 AI 剩餘食材食譜推薦程式，能有效追蹤保存期限並提供料理靈感。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
